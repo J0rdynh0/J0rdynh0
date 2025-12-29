@@ -1,6 +1,6 @@
 # Hello, I'm Jordan Simpson
 <a href="https://www.linkedin.com/in/jordans007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-
+<a href="https://j0rdynh0.github.io/Jordan-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%20Green?style=for-the-badge&logo=Jekyll" /></a>
 
 I am Cybersecurity enthusiast building skills in threat hunting and security operations.
 
