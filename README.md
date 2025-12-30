@@ -49,6 +49,9 @@ My goal is to continue building practical, real‑world defensive security skill
 <a href= "https://www.credly.com/badges/dc39e0cd-5f74-4071-915d-49166e469f21/public_url"><img src="https://img.shields.io/badge/CCST-purple?style=for-the-badge&logoSize=auto" /></a/>
 
 </div>
+
+## Projects
+- Jekyll & Hire
 <!--
 ## Upcoming Projects
 - Cloud-Based SOC Lab (Microsoft Sentinel)
