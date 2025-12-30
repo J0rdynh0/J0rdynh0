@@ -51,7 +51,7 @@ My goal is to continue building practical, real‑world defensive security skill
 </div>
 
 ## Projects
-- Jekyll & Hire
+- Jekyll & Hire Portfolio website 
 <!--
 ## Upcoming Projects
 - Cloud-Based SOC Lab (Microsoft Sentinel)
