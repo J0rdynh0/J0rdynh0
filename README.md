@@ -12,6 +12,11 @@ My goal is to continue building practical, real‑world defensive security skill
 
 ## Technical Skills & Knowledge
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Azure Sentinel          | <a href="https://github.com/J0rdynh0/Azure-Sentinel-SOC-Lab">Azure Sentinel & SOC Detection Lab</a>|
+| Threat Hunting          | <a href="https://github.com/J0rdynh0/Azure-Sentinel-SOC-Lab">Azure Sentinel & SOC Detection Lab</a>|
+
 ### Security Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -51,9 +56,10 @@ My goal is to continue building practical, real‑world defensive security skill
 </div>
 
 ## Projects
-- Jekyll & Hire Portfolio website 
+- Jekyll & Hire Portfolio website
+- Cloud-Based SOC Lab (Microsoft Sentinel)
+
 <!--
 ## Upcoming Projects
-- Cloud-Based SOC Lab (Microsoft Sentinel)
 - SOC 2 Controls to  Sample Cloud Environment
 -->
