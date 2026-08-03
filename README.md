@@ -2,12 +2,13 @@
 <a href="https://www.linkedin.com/in/jordans007/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 <a href="https://simpsonjordan.com/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Jekyll" /></a>
 
-I am Cybersecurity enthusiast building skills in threat hunting and security operations.
+Cybersecurity enthusiast specializing in Identity & Access Management and secure access controls..
 
 ## Objective
 
-Through my SC‑200 certification and various cybersecurity training, I’ve developed strong skills in KQL, threat detection, and responding to security events across cloud and on‑prem environments. I am now eager to transition into a SOC Analyst and Cloud Security role where I can apply my experience with Microsoft Sentinel, Defender, and log analysis. 
-My goal is to continue building practical, real‑world defensive security skills while contributing to projects that strengthen detection, response, and cloud security capabilities.
+With SC‑200 training and experience in cloud‑based threat detection, I’ve developed a strong understanding of how identity plays a central role in modern security. In my current Help Desk position, I serve as the first point of contact for IT issues. My daily tasks include: verifying user identities, managing access through Active Directory, enforcing Zero Trust principles, and using CyberArk for privileged access operations.
+
+I’m now pursuing a transition into Identity & Access Management, where I can apply my real‑world experience with identity validation and access control to help strengthen secure, scalable identity architectures across the organization.
 
 
 ## Technical Skills & Knowledge
